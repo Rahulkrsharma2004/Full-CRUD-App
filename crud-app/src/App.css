@@ -40,3 +40,14 @@
 .read-the-docs {
   color: #888;
 }
+.App{
+  
+}
+.navbar{
+  /* background-color:rgb(245, 202, 202) ; */
+  padding: 10px;
+  display: flex;
+  justify-content: flex-end;
+  /* row-gap: 10px; */
+  /* justify-content: space-around; */
+}
